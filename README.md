@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/QuintonWeenink/ValknutSolutions.png?label=ready&title=Ready)](https://waffle.io/QuintonWeenink/ValknutSolutions)
 # MarketLead.io
 Insurance profiling from social media
 
